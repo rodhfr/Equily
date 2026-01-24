@@ -2,8 +2,6 @@
 
 Equily the equilibrium for your finances.
 
-CRUD for finances management.
-
 Work in progress.
 
 ## TODO
