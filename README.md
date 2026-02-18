@@ -1,5 +1,5 @@
 # Equily
-
+[WIP]
 A personal finance management application built with clean domain-driven design. Track income, expenses, and categorize transactions with a simple, dependency-free Python interface.
 
 ## Features
